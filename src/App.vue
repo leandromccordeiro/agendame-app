@@ -4,6 +4,6 @@
   </v-app>
 </template>
 
-<script setup>
-  //
+<script setup lang="js">
+// import { RouterView } from "vue-router";
 </script>
